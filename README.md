@@ -1,5 +1,4 @@
-# routerctrl.client
-Client for Router Control
+# Router Control Client
 
 settings.ini - настройки клиента
 router.py - клиент сбора информации
